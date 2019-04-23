@@ -1,16 +1,7 @@
-# google_maps
+# Google Maps
 
-A new Flutter project.
+How do I code this - https://youtu.be/hBL-zpC4rQA
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20190423-213534](https://user-images.githubusercontent.com/8137504/56597350-ea1fb580-660f-11e9-9286-65c8dddfc1f9.png)
